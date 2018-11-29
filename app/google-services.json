@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "285424970249",
+    "firebase_url": "https://bdddistante.firebaseio.com",
+    "project_id": "bdddistante",
+    "storage_bucket": "bdddistante.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285424970249:android:326f616fc561d1c4",
+        "android_client_info": {
+          "package_name": "fr.acos.bdddistante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285424970249-h5qn9s3nfn7buhr638k0ujca7siu7v3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHAEBgqo_0QXqyaT3XiB-m1U9aBrwBgFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
